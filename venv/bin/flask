@@ -1,4 +1,4 @@
-#!/home/joe/microblog/venv/bin/python2
+#!/home/joe/microblog/venv/bin/python3
 
 # -*- coding: utf-8 -*-
 import re
